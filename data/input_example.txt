@@ -1,0 +1,2 @@
+Enter the URL of the Eventbrite page you wish to scrape:
+Example: https://www.eventbrite.com/d/online/events/
